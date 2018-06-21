@@ -1,5 +1,5 @@
 {
-  "name": "sketch-fetch-complete",
+  "name": "@nupt/sketch-fetch",
   "version": "0.0.3",
   "description": "A fetch for sketch",
   "main": "lib/index.js",
@@ -7,14 +7,16 @@
     "cocoascript-class": "^0.1.2"
   },
   "devDependencies": {
-    "@skpm/test-runner": "^0.2.3"
+    "@skpm/test-runner": "^0.2.3",
+    "eslint": "^4.19.1",
+    "eslint-config-sketchplugin": "^1.1.5"
   },
   "scripts": {
     "test": "skpm-test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhzxang/sketch-fetch-complete.git"
+    "url": "git+https://github.com/wwsun/sketch-fetch-complete.git"
   },
   "keywords": [
     "sketch",
@@ -23,7 +25,7 @@
   "author": "zhzxang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhzxang/sketch-fetch-complete/issues"
+    "url": "https://github.com/wwsun/sketch-fetch-complete/issues"
   },
-  "homepage": "https://github.com/zhzxang/sketch-fetch-complete/issues#readme"
+  "homepage": "https://github.com/wwsun/sketch-fetch-complete/issues#readme"
 }

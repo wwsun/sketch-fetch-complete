@@ -1,0 +1,10 @@
+{
+  "extends": "sketchplugin",
+  "rules": {
+    "no-bitwise": "off",
+    "consistent-return": "off",
+    "guard-for-in": "off",
+    "no-restricted-syntax": "off",
+    "func-names": "off"
+  }
+}
