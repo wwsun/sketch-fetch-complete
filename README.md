@@ -1,17 +1,17 @@
-# @nupt/sketch-fetch
+# sketch-module-fetch
 
 A [fetch](https://developer.mozilla.org/en/docs/Web/API/Fetch_API) polyfill for sketch inspired by [unfetch](https://github.com/developit/unfetch). It is automatically included (when needed) when using [skpm](https://github.com/skpm/skpm).
 
 ## Installation
 
 ```bash
-npm i -S @nupt/sketch-fetch
+npm i -S sketch-module-fetch
 ```
 
 ## Usage
 
 ```js
-const fetch = require('@nupt/sketch-fetch')
+const fetch = require('sketch-module-fetch')
 
 fetch("https://google.com")
   .then(response => response.text())

@@ -1,6 +1,6 @@
 {
-  "name": "@nupt/sketch-fetch",
-  "version": "0.0.3",
+  "name": "sketch-module-fetch",
+  "version": "1.0.0",
   "description": "A fetch for sketch",
   "main": "lib/index.js",
   "dependencies": {
